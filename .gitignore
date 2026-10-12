@@ -24,3 +24,5 @@ htmlcov/
 build/
 dist/
 *.egg-info/
+
+.venv_backup/
